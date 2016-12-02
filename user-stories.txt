@@ -1,0 +1,22 @@
+As a staff, I want to view the list of customers that use the system in order to know their contact details 
+As a staff, I will be able to add a new customer into the system so that their details are reusable for their next purchases.
+As a staff, I will be able to update existing customer details incase certain customers have changed some of their details such as contact details.
+As a staff, I want to delete a customer from customer list so that customers who have not made purchases over a long time can be removed.
+As a staff, I want to filter customers based on their id, name, phone number and home address. hehehehehe
+As a staff, I can perform product buying operations with selected customer so that the customer can choose what item they wish to buy.
+As a staff, I can perform product selling operations with selected customer so that I can buy the customers items.
+As a staff, I am able to perform product exchange operations with selected customer so that the customer can exchange certain items for other items.
+As a staff, I want to be able to view the total price of items at checkout so that I can inform the customer of total price of all purchases.
+As a staff, I want to be able to enter customer payment amount so that I can give the customer back his balance if any for his purchases. ( first iteration )
+As a staff, I can view the receipt description of a purchase before checkout so that I can make sure of the purchases and total payments are correct. This need to chagne
+As a staff, I am able to view a list of all available products sold by our store so that I can also recommend certain items to customers based on what items they are looking for.
+As a staff, I am able to add new products so that when new items are being sold at the store I can add them into the system.
+As a staff, I am allowed to update existing product details so that if certain items details are changed i can edit it accordingly.
+As a staff, I can delete a product from product lists so that if items are no longer being sold by the store won't be displayed anymore.
+As a staff, I want to be able to filter products in the list based on product type and any specific details so that i can find items faster.
+As a staff, I want to view current market price list of the products so that if a customer asks me I can tell them what the current market price is for some items.
+As a staff, I can modify the current market price from the price list so that when the market price changes i can alter them accordingly.
+As a staff, I want to generate report with the list of customers so that we can know how many new customers and old customers there are over a period of time.
+As a staff, I want to generate report with the list of products so that can know what products are in inventory.
+As a staff, I want to generate report with monthly sales of products so that can see what items are being sold and at what rate.
+As a staff, I want to generate report with total sales report so that we will be able to calculate all sales made in a month.
