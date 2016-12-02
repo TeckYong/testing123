@@ -8,7 +8,7 @@ As a staff, I can perform product selling operations with selected customer so t
 As a staff, I am able to perform product exchange operations with selected customer so that the customer can exchange certain items for other items.
 As a staff, I want to be able to view the total price of items at checkout so that I can inform the customer of total price of all purchases.
 As a staff, I want to be able to enter customer payment amount so that I can give the customer back his balance if any for his purchases. ( first iteration )
-As a staff, I can view the receipt description of a purchase before checkout so that I can make sure of the purchases and total payments are correct.
+As a staff, I can view the receipt description of a purchase before checkout so that I can make sure of the purchases and total payments are correct. This need to chagne
 As a staff, I am able to view a list of all available products sold by our store so that I can also recommend certain items to customers based on what items they are looking for.
 As a staff, I am able to add new products so that when new items are being sold at the store I can add them into the system.
 As a staff, I am allowed to update existing product details so that if certain items details are changed i can edit it accordingly.
