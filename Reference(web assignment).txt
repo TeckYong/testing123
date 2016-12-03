@@ -1,0 +1,10 @@
+Install-Package RazorEngine -Version 3.9.0
+Install-Package Sendgrid ( not need )
+Install-Package SendGrid.Net40
+
+
+SENDGRID_USER : azure_66e697259f771e4061683775bca904cd@azure.com
+SENDGRID_PASS:
+ce5BHyF56z10Fj9
+SENDGRID_APIKEY :
+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
